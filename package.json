@@ -1,0 +1,14 @@
+{
+	"name"		: "springseed",
+	"main"		: "index.html",
+	"version"	: "0.0.1",
+	"window"	: {
+		"title"			: "Springseed",
+		"icon"			: "appIcon.png",
+		"toolbar"		: false,
+		"width"			: 800,
+		"height"		: 600,
+		"min_width"		: 730,
+		"min_height"	: 230
+	}
+}
